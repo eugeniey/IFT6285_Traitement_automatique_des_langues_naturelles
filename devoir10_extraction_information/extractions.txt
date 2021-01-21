@@ -1,0 +1,400 @@
+title : Barry County Courthouse
+summary : The Barry County Courthouse is a government building located at 220 West State Street in Hastings, Michigan.
+=> The Barry County Courthouse is a government building
+--
+title : Hemberg
+summary : Hemberg is a hill ridge in Hesse, Germany.
+=> Hemberg is a hill ridge
+--
+title : Nerves Junior
+summary : Nerves Junior were an American indie rock band based in Louisville, Kentucky.
+=> Nerves Junior were an American indie rock band
+--
+title : Colegio Hispano Americano de Gunma
+summary : Colegio Hispano Americano de Gunma (イスパーノ・アメリカーノ学院, Isupāno Amerikāno Gakuin) is a Peruvian international school (ペルー学校) in Isesaki, Gunma, Japan.
+=> Gunma is a Peruvian international school
+--
+title : Versus (band)
+summary : Versus is an American indie rock band formed in 1990 by Richard Baluyut, Fontaine Toups, and Edward Baluyut in New York City, United States.
+=> Versus is an American indie rock band
+--
+title : Nayobe
+summary : Nayobe Catalina Gomez, known professionally Nayobe (born December 18, 1967 in Brooklyn, New York) is a U.S. singer of Afro-Puerto Rican heritage and freestyle dance-pop musician.
+=> Nayobe is a U.S. singer of
+--
+title : Salman Rabeii
+summary : Salman Yahya Hassan Mohammed Rabeii is a citizen of Yemen, held in extrajudicial detention in the United States Guantanamo Bay detainment camps, in Cuba.
+=> Salman Yahya Hassan Mohammed Rabeii is a citizen of Yemen
+--
+title : Yokosuka MXY9
+summary : The Yokosuka MXY9 Shuka (秋花, "Autumn flower") was a projected development of the MXY8 training glider, adding a small motorjet engine, the Tsu-11.
+=> The Yokosuka MXY9 Shuka was a projected development of the MXY8 training glider
+--
+title : BBC Radio 5 Live Sports Extra
+summary : BBC Radio 5 Live Sports Extra (also known as just 5 Live Sports Extra or 5 Live Extra) is a national digital radio station in the United Kingdom, operated by the BBC, and specialising only in extended additional sports coverage.
+=> Live Sports Extra is a national digital radio station
+--
+title : Lirularia optabilis
+summary : Lirularia optabilis is a species of sea snail, a marine gastropod mollusk in the family Trochidae, the top snails.This extinct marine species is only known from Pleistocene assemblages of Southern California.
+=> Lirularia optabilis is a species of sea snail
+--
+title : Fort Miller (Massachusetts)
+summary : Fort Miller (originally Fort Darby or Darby's Fort) was a coastal defense fort in Marblehead, Massachusetts, in existence circa 1630–1900.
+=> Fort Miller was a coastal defense fort
+--
+title : Hyphodontia sambuci
+summary : Hyphodontia sambuci, or elder whitewash, is a basidiomycete fungal pathogen on deadwood, especially elder.It is resupinate, forming a very thin structure which is white, pruinose (flour-like dusting) or chalky in appearance.
+=> Hyphodontia sambuci is a basidiomycete fungal pathogen
+--
+title : Revie Plan
+summary : The Revie Plan was a tactical system in association football used by Manchester City in the 1950s.
+=> The Revie Plan was a tactical system
+--
+title : Burichura
+summary : Burichura is a genus of moths in the family Geometridae.
+=> Burichura is a genus of moths
+--
+title : Martin Julius Halvorsen
+summary : Martin Julius Halvorsen (4 November 1867 – 7 March 1951) was a Norwegian newspaper editor and politician for the Labour and Social Democratic Labour parties.
+=> Martin Julius Halvorsen was a Norwegian newspaper editor
+--
+title : Abel Cullum
+summary : Abel Cullum (born April 21, 1987 in Tucumcari, New Mexico) is an American professional mixed martial artist and former King of the Cage Flyweight Champion.
+=> Abel Cullum is an American professional mixed martial artist
+--
+title : The Daemon Lover
+summary : "The Daemon Lover", also known as "James Harris", "James Herries", or "The House Carpenter" (Roud 14, Child 243) is a popular Scottish ballad dating to around 1685.
+=> The Daemon Lover is a popular Scottish ballad
+--
+title : Myra Belle Martin
+summary : Myra Belle Martin (October 6, 1861 – ?) was an American teacher, writer, and financier.
+=> Myra Belle Martin was an American teacher
+--
+title : Slovak Internet eXchange
+summary : SIX (Slovak Internet eXchange) is a Slovak internet exchange point, established at the Center of Computer Technology of Slovak University of Technology (STU).
+=> SIX is a Slovak internet exchange point
+--
+title : Oakway Center
+summary : The Oakway Center is a shopping center in Eugene, Oregon.
+=> The Oakway Center is a shopping center
+--
+title : List of municipalities of the Province of Reggio Emilia
+summary : The following is a list of the 44 municipalities (comuni) of the Province of Reggio Emilia, Emilia-Romagna, Italy.
+=> The following is a list of the
+--
+title : Joe Kodeih
+summary : Joe Kodeih (born September 3, 1967 in Ashrafieh, Beirut) is a writer, actor and director.
+=> Joe Kodeih is a writer
+--
+title : Suárez, Cauca
+summary : Suárez (Spanish pronunciation: [ˈswaɾes]) is a town and municipality in the Cauca Department, Colombia.
+=> Suárez is a town
+--
+title : C. Muthuswamy Gounder
+summary : C. Muthuswamy Gounder (born 1917) was a Swatantra Party politician from the Indian state of Tamil Nadu who served as the Member of Parliament for Karur from 1967 to 1971.
+=> C. Muthuswamy Gounder was a Swatantra Party politician
+--
+title : Halakabad
+summary : Halakabad (Persian: هلاك اباد‎, also Romanized as Halākābād) is a village in Beyhaq Rural District, Sheshtomad District, Sabzevar County, Razavi Khorasan Province, Iran.
+=> Halakabad is a village
+--
+title : James R. Newman
+summary : James Roy Newman (1907–1966) was an American mathematician and mathematical historian.
+=> James Roy Newman was an American mathematician
+--
+title : Ghamar Ariyan
+summary : Ghamar Ariyan (Persian: قمر آریان) (March 22, 1922 – April 11, 2012) was an Iranian researcher and author, the first woman to graduate from the Faculty of Literature at Tehran University, the first female university professor in Iran and a member of the Supreme Council of the Great Islamic Encyclopedia.
+=> Ghamar Ariyan was an Iranian researcher
+--
+title : Lampfish
+summary : Lampfish is a common name for several fishes and may refer to:
+=> Lampfish is a common name
+--
+title : Fred Ohebshalom
+summary : Fred Ohebshalom (born 1952) is an American real estate developer and founder of Empire Management.
+=> Fred Ohebshalom is an American real estate developer
+--
+title : Gaspard de Clermont-Tonnerre
+summary : Gaspard de Clermont-Tonnerre (16 August 1688 at Dijon – 16 March 1781 at the Hôtel Matignon, Paris), was a French noble, descendant of a family which traced its origins to the 12th century.
+=> Tonnerre was a French noble
+--
+title : Appi-Kōgen Station
+summary : Appi-Kōgen Station (安比高原駅, Appi-Kōgen-eki) is a railway station on the Hanawa Line in the city of  Hachimantai, Iwate Prefecture, Japan, operated by East Japan Railway Company (JR East).
+=> Kōgen Station is a railway station
+--
+title : Julian Ringhof
+summary : Julian Ringhof (born February 21, 1989) is a German footballer who most recently played for Arizona United SC in the United Soccer League.
+=> Julian Ringhof is a German footballer
+--
+title : Sam Reed (musician)
+summary : Sam Reed (born October 18, 1935) is a tenor saxophonist based in Philadelphia.
+=> Sam Reed is a tenor saxophonist
+--
+title : AIR Awards of 2007
+summary : The AIR Awards of 2007 is the second annual Australian Independent Record Labels Association Music Awards (generally known as the AIR Awards) and was an award ceremony at Toff of the Town, in Melbourne, Australia on 10 December 2007 to honour outstanding achievements in sales by Australian independent artists.
+=> The AIR Awards of 2007 was an award ceremony
+--
+title : 2012 ATP Roller Open
+summary : The 2012 ATP Roller Open was a professional tennis tournament played on hard courts.
+=> ATP Roller Open was a professional tennis tournament
+--
+title : Choristoneura jecorana
+summary : Choristoneura jecorana is a species of moth of the family Tortricidae.
+=> Choristoneura jecorana is a species of moth
+--
+title : John Bauer (American painter)
+summary : John Bauer (born 1971) is an American painter and artist based in San Diego.
+=> John Bauer is an American painter
+--
+title : Santini SMS
+summary : Santini SMS is a cycling clothes brand of the Italian clothing production company Santini Maglificio Sportivo.
+=> Santini SMS is a cycling clothes brand of the Italian clothing production company
+--
+title : Paraclinus spectator
+summary : Paraclinus spectator is a species of labrisomid blenny native to the Atlantic coast of Brazil where it can be found on rocky reefs at depths of from 1 to 7 metres (3.3 to 23.0 ft).
+=> Paraclinus spectator is a species of labrisomid blenny
+--
+title : Benny Davis
+summary : Benny Davis (August 21, 1895 - December 20, 1979) was a vaudeville performer and writer of popular songs.
+=> Benny Davis was a vaudeville performer
+--
+title : W. J. and Ed Smith Building
+summary : W. J. and Ed Smith Building, also known as H.P. Authorson Meat Market and Charles Coon Billiard Hall, is a historic commercial building located at West Plains, Howell County, Missouri.
+=> W. J. is a historic commercial building
+--
+title : Sausage Race
+summary : The Sausage Race is a race of sausage mascots held before the bottom of the sixth inning at every home game of the Milwaukee Brewers.
+=> The Sausage Race is a race of sausage mascots
+--
+title : Tove Smaadahl
+summary : Tove Smaadahl (born 23 January 1954) is a Norwegian Labour Party politician and organisation leader, known for her work to prevent violence against women.
+=> Tove Smaadahl is a Norwegian Labour Party politician
+--
+title : Louis Vigée
+summary : Louis Vigée (2 February 1715 – 9 May 1767) was a French portraitist, fan painter, artist in pastels and a member of the Académie de Saint-Luc.
+=> Louis Vigée was a French portraitist
+--
+title : Ussy
+summary : Pussy is a noun, an adjective, and in rare uses a verb in the English language.
+=> Pussy is a noun
+--
+title : Aşağı Güzdək
+summary : Aşağı Güzdək (also, Ashagy Gyuzdek and Verkhniy Guzdak) is a village and municipality in the Absheron Rayon of Azerbaijan.
+=> Aşağı Güzdək is a village
+--
+title : Brachyprotoma
+summary : Brachyprotoma obtusata (also known as the short-faced skunk) is an extinct genus of skunk of the Pleistocene epoch what is now North America.
+=> Brachyprotoma obtusata is an extinct genus of skunk
+--
+title : Franco Harris
+summary : Franco Harris (born March 7, 1950) is an American former professional football player who was a  fullback in the National Football League (NFL) for the Pittsburgh Steelers and Seattle Seahawks.
+=> Franco Harris is an American former professional football player
+--
+title : Dongmoa silvestrii
+summary : Dongmoa silvestrii is a harvestman species in the genus Dongmoa found in Tonking.
+=> Dongmoa silvestrii is a harvestman species
+--
+title : The World Famous Pontani Sisters
+summary : The World Famous Pontani Sisters are a dance act and burlesque revue based in New York City, consisting of three sisters: Angie Pontani, Tara Pontani, and Helen Pontani.
+=> World Famous Pontani Sisters are a dance act
+--
+title : Atlanta Biltmore Hotel and Biltmore Apartments
+summary : The Atlanta Biltmore Hotel and Biltmore Apartments is a historic building located in Atlanta, Georgia.
+=> Biltmore Apartments is a historic building
+--
+title : George Anderson (minister)
+summary : George Anderson (1677–1756) was a prominent Scottish minister during the Enlightenment.
+=> George Anderson was a prominent Scottish minister
+--
+title : Colombo '43 Group
+summary : The '43 Group was a school of modern mid-20th-century art in Colombo, Ceylon (now Sri Lanka), established in 1943.
+=> Group was a school of modern mid-20th
+--
+title : Anthea Sylbert
+summary : Anthea Sylbert (born October 6, 1939 in New York City) is an American film producer and award-winning costume designer who was active during the "modern era" of American film.
+=> Anthea Sylbert is an American film producer
+--
+title : Lara Stalder
+summary : Lara Stalder (born 15 May 1994) is a Swiss ice hockey forward for Brynäs IF and the Swiss women's national ice hockey team.
+=> Lara Stalder is a Swiss ice hockey
+--
+title : Bothrioneodermata
+summary : Bothrioneodermata is a clade of flatworms containing the Bothrioplanida and the Neodermata.
+=> Bothrioneodermata is a clade of flatworms
+--
+title : Jun Sawada
+summary : Jun Sawada (沢田 純, Sawada Jun, born 30 July 1955) is a Japanese businessman, president and chief executive officer (CEO) of Nippon Telegraph and Telephone (NTT), the third largest telecommunications company in the world in terms of revenue, since June 2018.
+=> Jun Sawada is a Japanese businessman
+--
+title : Garfield Township, Newaygo County, Michigan
+summary : Garfield Township is a civil township of Newaygo County in the U.S. state of Michigan.
+=> Garfield Township is a civil township of Newaygo County
+--
+title : Notonomus bakewelli
+summary : Notonomus bakewelli is a species of ground beetle in the subfamily Pterostichinae.
+=> Notonomus bakewelli is a species of ground beetle
+--
+title : The King's Bakery
+summary : The King's Bakery is a coquina stone structure in St.
+=> Bakery is a coquina stone structure
+--
+title : Thisuri Wanniarachchi
+summary : Thisuri Wanniarachchi (Sinhala: තිසුරි වන්නිආරච්චි) is a Sri Lankan author and public policy specialist.
+=> Thisuri Wanniarachchi is a Sri Lankan author
+--
+title : Te Mata Peak
+summary : Te Mata Peak is a peak south of Hastings rising up to 399m in the Te Mata Hills in the Hawke's Bay region of New Zealand.
+=> Te Mata Peak is a peak
+--
+title : Miandar
+summary : Miandar (Persian: مياندر‎, also Romanized as Mīāndar) is a village in Byaban Rural District, Byaban District, Minab County, Hormozgan Province, Iran.
+=> Miandar is a village
+--
+title : Wine cup of Shah Jahan
+summary : The wine cup of Shah Jahan is a wine cup of white nephrite jade that was made for the Mughal emperor Shah Jahan.
+=> The wine cup of is a wine cup of white nephrite jade
+--
+title : Mazda J engine
+summary : The Mazda J-family are a range of 60-degree V6 engines featuring a cast-iron cylinder block and alloy heads with belt-driven DOHC or SOHC. It is Mazda's only cast-iron gasoline V6.
+=> family are a range of
+--
+title : Pegomya solennis
+summary : Pegomya solennis is a species of fly in the family Anthomyiidae.
+=> Pegomya solennis is a species of fly
+--
+title : Ajax Futebol Clube
+summary : Ajax Futebol Clube, commonly known as Ajax, is a Brazilian football club based in Vilhena, Rondônia state.
+=> Ajax Futebol Clube is a Brazilian football club
+--
+title : Private-equity fund
+summary : A private-equity fund is a collective investment scheme used for making investments in various equity (and to a lesser extent debt) securities according to one of the investment strategies associated with private equity.
+=> equity fund is a collective investment scheme
+--
+title : National Police Commission
+summary : The National Police Commission (Filipino: Pambansang Komisyon ng Pulisya), abbreviated as NAPOLCOM, is an attached agency of the Department of the Interior and Local Government responsible for the administration and control of the Philippine National Police (PNP).
+=> The National Police Commission is an attached agency of the Department
+--
+title : Verona Arena
+summary : The Verona Arena (Italian: Arena di Verona [aˈrɛːna di veˈroːna, aˈreːna -]) is a Roman amphitheatre in Piazza Bra in Verona, Italy built in the first century.
+=> The Verona Arena is a Roman amphitheatre
+--
+title : Ernst Frick (painter)
+summary : Ernst Frick (1881–1956) was a Swiss painter.
+=> Ernst Frick was a Swiss painter
+--
+title : Rajavaram, Atreyapuram Mandal
+summary : Rajavaram is a village in Atreyapuram Mandal, East Godavari district in the state of Andhra Pradesh in India.
+=> Rajavaram is a village
+--
+title : King of Foxes (band)
+summary : King of Foxes is a Canadian indie rock band formed in 2013, originating from Edmonton, Alberta.
+=> King of Foxes is a Canadian indie rock band
+--
+title : Beau Blankenship
+summary : Beau Blankenship (born August 13, 1990) is a former American football running back.
+=> Beau Blankenship is a former American football
+--
+title : Carlos Païta
+summary : Carlos Païta (10 March 1932 – 19 December 2015) was an Argentine conductor.
+=> Carlos Païta was an Argentine conductor
+--
+title : Linda Bean
+summary : Linda Lorraine Bean (born April 28, 1941) is an American businessperson and donor.
+=> Linda Lorraine Bean is an American businessperson
+--
+title : Lazar Ranđelović
+summary : Lazar Ranđelović (Serbian Cyrillic: Лазар Ранђеловић; born 5 August 1997) is a Serbian professional footballer who plays as a right winger for Greek club Olympiacos.
+=> Lazar Ranđelović is a Serbian professional footballer
+--
+title : Tower Comics
+summary : The Dark Tower, first published in 2007, is a series of comic books (originally published by Marvel Comics and later republished by Gallery 13) based on Stephen King's The Dark Tower series of novels.
+=> The Dark Tower is a series of comic books
+--
+title : Walter Buschhoff
+summary : Walter Buschhoff (1923–2010) was a German stage, film and television actor.
+=> Walter Buschhoff was a German stage
+--
+title : Monotaxis (fish)
+summary : Monotaxis  is a genus of emperors found in the Indian and western Pacific Oceans.
+=> Monotaxis is a genus of emperors
+--
+title : Renée Kosel
+summary : Renée Kosel is a Republican former member of the Illinois House of Representatives, representing the 81st district from 1997 until her resignation on January 7, 2015.
+=> Renée Kosel is a Republican former member of the Illinois House
+--
+title : Brigid Boden
+summary : Brigid Boden is an Irish singer and songwriter.
+=> Brigid Boden is an Irish singer
+--
+title : Amphibromus
+summary : Amphibromus is a genus of grasses in the family Poaceae.
+=> Amphibromus is a genus of grasses
+--
+title : Agile marketing
+summary : Agile marketing is an organizational effectiveness strategy that uses self-organizing, cross-functional teams doing work in frequent iterations.
+=> marketing is an organizational effectiveness strategy
+--
+title : Roman Catholic Diocese of San Benedetto del Tronto-Ripatransone-Montalto
+summary : San Benedetto del Tronto is a city and comune in Marche, Italy.
+=> San Benedetto del Tronto is a city
+--
+title : Roman Club
+summary : Roman Club (Italian: Fiori Romano) is an artificial bridge bidding system devised in the 1950s by Giorgio Belladonna and Walter Avarelli of Italy's Blue Team.
+=> Roman Club is an artificial bridge bidding system
+--
+title : Deputy commander (Metropolitan Police)
+summary : Deputy commander was a rank in the London Metropolitan Police which existed between 1946 and 1968.
+=> London Metropolitan Police which was a rank
+--
+title : Freeborn G. Jewett
+summary : Freeborn Garrettson Jewett (August 4, 1791 in Sharon, Litchfield County, Connecticut – January 27, 1858 in Skaneateles, Onondaga County, New York) was an American lawyer and politician who served as a U.S. Representative from New York and was the first Chief Judge of the New York Court of Appeals.
+=> Freeborn Garrettson Jewett was an American lawyer
+--
+title : USS Hummer (AMS-20)
+summary : USS Hummer (AMS-20/YMS-372) was a YMS-1-class minesweeper of the YMS-135 subclass acquired by the U.S. Navy for the task of removing mines that had been placed in the water to prevent ships from passing.
+=> USS Hummer was a YMS-1-class minesweeper of the YMS-135 subclass
+--
+title : Dichantharellus
+summary : Dichantharellus is a genus of fungi in the Lachnocladiaceae family.
+=> Dichantharellus is a genus of fungi
+--
+title : Angelo Emo
+summary : Angelo Emo (3 January 1731 – 1 March 1792) was a Venetian noble and admiral, mostly known for being the last admiral of the Republic of Venice to lead the Venetian navy to battle.
+=> Angelo Emo was a Venetian noble
+--
+title : Short-coupled aircraft
+summary : A short-coupled aircraft or close-coupled aircraft is an aircraft with a relatively short distance between the wing and empennage (tail assembly) or whatever is used to provide the force that is used to balance the aircraft along its longitudinal axis.
+=> aircraft is an aircraft
+--
+title : LaTonya Swann
+summary : LaTonya Swann (born February 4, 1991) is an American dancer, choreographer, print model, philanthropist, and the first winner of BET's Born to Dance (TV series): Laurieann Gibson.
+=> LaTonya Swann is an American dancer
+--
+title : Jet.com
+summary : Jet.com was an American e-commerce company headquartered in Hoboken, New Jersey.
+=> Jet.com was an American e
+--
+title : Pozadabad
+summary : Pozadabad (Persian: پزداباد‎, also romanized as Pozdābād) is a village in Khatunabad Rural District, in the Central District of Shahr-e Babak County, Kerman Province, Iran.
+=> Pozadabad is a village
+--
+title : Palimpsest: Documents From a Korean Adoption
+summary : Palimpsest: Documents From a Korean Adoption (Swedish: Palimpsest) is a graphic novel written by Lisa Wool-Rim Sjöblom (Korean: 정울림), a South Korea-born Swedish cartoonist.
+=> Documents From is a graphic novel
+--
+title : Like a Family
+summary : Like a Family: The Making of a Southern Cotton Mill World is a history of the cotton textile industry in the American South, especially the Piedmont region of the states of Virginia, North Carolina, South Carolina, Georgia, and Alabama.
+=> The Making of is a history of the cotton textile industry
+--
+title : Milk Pail Restaurant
+summary : The Milk Pail Restaurant, formerly known as the Country Tea Room, is a historic restaurant (tearoom) in unincorporated Dundee Township, Kane County, Illinois, United States.
+=> The Milk Pail Restaurant is a historic restaurant
+--
+title : Chambless, California
+summary : Chambless is a ghost town in the Mojave Desert of San Bernardino County, California, United States, south of Interstate 40 on the historic Route 66.
+=> Chambless is a ghost town
+--
+title : Liu Songnian
+summary : Liu Songnian (刘松年 or traditional Liu Sung-nien) (1174–1224 CE), was a Chinese landscape painter during the early Southern Song Dynasty (1127–1279).
+=> Liu Songnian was a Chinese landscape painter
+--
