@@ -1,0 +1,231 @@
+Traductions faites avec DeepL
+
+############################################################################
+FRANCAIS --> ANGLAIS  
+############################################################################
+
+
+================================
+Nelly Arcan - Burqa de chair
+
+SRC: Autour, l’omniprésence d’affiches où des beautés surréalistes, colorées telles des oiseaux des îles, la fixaient, depuis leur supériorité, 
+de leurs regards qui étaient autant d’invitations à les regarder, à se projeter en elles, à leur ravir leur place de reines par le biais de cosmétiques. 
+
+NMT: Around her, the omnipresence of posters where surrealist beauties, colored like birds of the islands, stared at her from their superiority, 
+with their glances that were as many invitations to look at them, to project themselves into them, to take their place as queens through cosmetics. 
+
+Erreur: Mauvais choix lexical (that were as many invitations to look at them)
+
+
+================================
+Nelly Arcan - Burqa de chair
+
+SRC: Elle n’était pas de l’ordre d’une peau ridée ou fanée mais de celle du regard et du corps prostrés dans une immobilité exaspérante. 
+
+NMT: It was not of the order of a wrinkled or faded skin but of the look and the body prostrate in an exasperating immobility.
+
+Erreur: Mauvais choix lexical (not of the order of)
+
+
+================================
+Nelly Arcan - Burqa de chair
+
+SRC: Sa vieillesse venait de la souffrance souterraine des espoirs entre-tenus au-delà des espoirs permis. 
+Souffrir consistait à espérer éternellement ce qu’on devait oublier. 
+
+NMT: Her old age came from the subterranean suffering of hopes held out beyond hope. 
+Suffering consisted of eternally hoping for that which had to be forgotten. 
+
+Erreur: Mauvais choix lexical (subterranean suffering)
+
+
+================================
+Nelly Arcan - Burqa de chair
+
+SRC: Souffrir était un défaut de la volonté où s’épanouissait le cancer des renoncements impossibles.
+
+NMT: Suffering was a defect of the will where the cancer of impossible renunciations flourished.
+
+Erreur: Mauvais choix lexical (renunciations)
+
+
+================================
+https://www.lapresse.ca/arts/musique/2020-12-02/anne-sylvestre-1934-2020/elle-ne-chantait-jamais-pour-rien.php
+
+SRC: La chanson française vient de perdre un autre de ses phares.
+
+NMT: French chanson has just lost another of its lighthouses. 
+
+Erreur: Mauvais choix lexical (lighthouses) et inexistant (chanson)
+
+
+================================
+https://www.lapresse.ca/international/etats-unis/2020-12-03/trump-refuse-de-dire-s-il-a-confiance-en-son-procureur-general.php
+
+SRC: Dans ce contexte, a-t-il encore confiance en ce ministre ultra-conservateur, qui a longtemps fait partie de son premier cercle ? 
+
+NMT: In this context, does he still have confidence in this ultra-conservative minister, who has long been part of his first circle? 
+
+Erreur: Mauvais choix lexical (first circle)
+
+
+================================
+https://www.lapresse.ca/arts/arts-visuels/2020-12-04/luminotherapie-dans-le-quartier-des-spectacles.php
+
+SRC: Petits et grands s’émerveilleront de la nouvelle mouture de Loop, point culminant de ce parcours hivernal. 
+
+NMT: Young and old alike will marvel at the new Loop, the highlight of this winter tour. 
+
+Erreur: Non-sense (Young and old alike will)
+
+
+================================
+https://www.archivespolitiquesduquebec.com/discours/p-m-du-quebec/rene-levesque/allocution-du-premier-ministre-du-quebec-monsieur-rene-levesque-quebec-le-vendredi-17-mai-1985/
+Discours René Lévesque
+
+SRC: Je sais que bien des Québécois et des Québécoises ne se contenteront pas de simples paroles.
+Il faudra donner des gages et poser des gestes pour atteindre l’objectif que je me suis assigné [...]
+
+NMT: I know that many Quebecers will not be satisfied with mere words. 
+They will have to give pledges and take action to achieve the objective I have set for myself [...]
+
+Erreur: Faute d'accord (They)
+
+
+================================
+https://www.archivespolitiquesduquebec.com/discours/p-m-du-quebec/rene-levesque/allocution-du-premier-ministre-du-quebec-monsieur-rene-levesque-quebec-le-vendredi-17-mai-1985/
+Discours René Lévesque
+
+SRC: Cependant, il est de la plus haute importance de bien faire comprendre ce qui constitue, aujourd’hui comme hier et indépendamment des gouvernements en place, 
+l’essentiel de la préoccupation québécoise: le caractère distinct d’un peuple et la légitimité des instruments juridiques et institutionnels qui en découlent.
+
+NMT: However, it is of the utmost importance to make clear what constitutes, today as in the past and independently of the governments in place, 
+the essence of Quebec's concern: the distinct character of a people and the legitimacy of the legal and institutional instruments that result from it.
+
+Erreur: Grammaticalement correcte, mais pas très commun (a people)
+
+
+================================
+https://www.archivespolitiquesduquebec.com/discours/p-m-du-quebec/rene-levesque/allocution-du-premier-ministre-du-quebec-monsieur-rene-levesque-quebec-le-vendredi-17-mai-1985/
+Discours René Lévesque
+ 
+SRC: À cinquante contre un, la protection du français comme langue d’usage demande des mesures spécifiques.
+
+NMT: At fifty to one, the protection of French as a language of use requires specific measures.
+
+Erreur: Contresens (language of use)
+
+
+
+############################################################################
+ANGLAIS --> FRANCAIS
+############################################################################
+
+
+================================
+Simulation Modeling and Analysis by Averill M Law
+
+SRC: Indeed, there is not even agreement about what the “multivariate gamma” distribution should be. 
+Unlike the multivariate normal case, specification of the marginal distributions and the correlation matrix does not completely 
+determine the joint distribution here.
+
+NMT: En effet, il n'y a même pas d'accord sur ce que devrait être la distribution "gamma multivariée". 
+Contrairement au cas normal multivarié, la spécification des distributions marginales et de la matrice de corrélation 
+ne détermine pas complètement la distribution commune ici.
+
+Erreur: contresens (distribution commune)
+
+
+================================
+Simulation Modeling and Analysis by Averill M Law
+
+SRC: To implement CRN properly, we must match up, or synchronize, the random num-bers across the different system configurations on a particular replication.
+
+NMT: Pour mettre en œuvre correctement le CRN, nous devons faire correspondre, ou synchroniser, les chiffres aléatoires des différentes 
+configurations du système sur une réplication particulière. 
+
+Erreur: Mauvaix choix lexical (réplication)
+
+
+================================
+Simulation Modeling and Analysis by Averill M Law
+
+SRC: [...] otherwise, the benefit of CRN could be lost [...]
+NMT: [...] sinon, le bénéfice du RRC pourrait être perdu [...]
+
+Erreur: Mauvais acronyme (RRC)
+
+
+================================
+Thich Nhat Hanh - The Miracle of Mindfulness
+
+SRC: Such meditation reveals and heals. 
+
+NMT: Une telle méditation révèle et guérit.
+
+Erreur: Mauvais choix lexical (révèle)
+
+
+================================
+Thich Nhat Hanh - The Miracle of Mindfulness
+
+SRC: If all our friends in the peace movement or of service communities of any kind do not love and help one another, whom can we love and help?
+
+NMT: Si tous nos amis du mouvement pour la paix ou des communautés de service de toute sorte ne s'aiment pas et ne s'aident pas les uns les autres, 
+qui pouvons-nous aimer et aider ?
+
+Erreur: Mauvaix choix lexical (nos amis du mouvement pour la paix ou des communautés de service)
+
+
+================================
+https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/136-dan-carlin-hardcore-history
+Transcript of a podcast Lex Fridman et Dan Carlin
+
+SRC: Genghis Khan looks different to the Mongolians than he does to the residents of Baghdad. 
+
+NMT: Gengis Khan est différent des Mongols et des habitants de Bagdad. 
+
+Erreur: Perte de sens
+
+
+================================
+https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/136-dan-carlin-hardcore-history
+Transcript of a podcast Lex Fridman et Dan Carlin
+
+SRC: I'm not sure that violence is something that we have to put up with as human beings forever, that we must resign ourselves to violence forever.
+But I have a much harder time seeing us able to abolish force.
+
+NMT: Je ne suis pas sûr que la violence soit quelque chose que nous devons supporter en tant qu'êtres humains pour toujours, 
+que nous devons nous résigner à la violence pour toujours. Mais j'ai beaucoup plus de mal à nous voir capables d'abolir la force.
+
+Erreur: Mauvais choix lexical, manque de contexte du traducteur (résigner)
+
+
+================================
+https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/136-dan-carlin-hardcore-history
+Transcript of a podcast Lex Fridman et Dan Carlin
+
+SRC: I think the question of evil is important, too, because I think it's an eye of the beholder thing.
+
+NMT: Je pense que la question du mal est importante aussi, parce que je pense que c'est une question d'œil.
+
+Erreur: Non-sens (oeil)
+
+================================
+Martin Luther King - I have a dream
+
+SRC: We must forever conduct our struggle on the high plane of dignity and discipline. 
+
+NMT: Nous devons toujours mener notre lutte sur le plan élevé de la dignité et de la discipline. 
+
+Erreur: Mauvais choix lexical (le plan élevé)
+
+
+================================
+Martin Luther King - I have a dream
+
+SRC: Continue to work with the faith that unearned suffering is redemptive. 
+
+NMT: Continuez à travailler avec la foi que la souffrance non gagnée est rédemptrice.
+
+Erreur: Contresens (non gagnée)
